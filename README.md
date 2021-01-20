@@ -1,5 +1,4 @@
-<h1 align="center">Hello Hello :v: :v:, I'm Mohammad Ibrahim Abu-Amara</h1>
-<h3 align="center">A passionate computer science student who loves to solve problems, work hard, keep learning, and have fun doing it.</h3>
+<h1 align="center">Hello Hello :v: :v:</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrmoon&label=Profile%20views&color=0e75b6&style=flat" alt="mrmoon" /> </p>
 
