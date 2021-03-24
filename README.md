@@ -1,7 +1,5 @@
 <h1 align="center">Hello Hello :v: :v:</h1>
 
-### " men lie, women lie, numbers don't, I see that "
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrmoon&show_icons=true&locale=en&layout=compact" alt="mrmoon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmoon&show_icons=true&locale=en" alt="mrmoon" /></p>
